@@ -1,2 +1,2 @@
 # OnlineReviewPlatform
-An online platform to review book.
+An online platform to review books.
